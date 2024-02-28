@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/PlayerBlendSpace.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AM/Z1C95W0UJTZHRA52RSAY7B.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/ManBlendSpace.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/ManBlueprint.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Attack_Horizontal__1_.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/M_Man_Cloth_Down_01.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Run_Jump_Attack_Anim_mixamo_com.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Run_Jump_Attack_Anim_Unreal_Take.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/M_Man_Cloth_Up_01.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Run_Jump_Attack_PhysicsAsset.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Run_Jump_Attack.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/M_Man_Body.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Attack_Horizontal__1__Anim_mixamo_com.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Attack_Horizontal__1__PhysicsAsset.uasset",
+				"C:/Users/exper/OneDrive - Kingston University/Group Project/Dungeons-and-Debts/Dungeons_and_Debts/Content/Animations/Standing_Melee_Attack_Horizontal__1__Anim_Unreal_Take.uasset",
 				"C:/Users/exper/OneDrive - Kingston University/Dungeons_and_Debts/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
